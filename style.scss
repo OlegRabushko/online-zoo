@@ -924,7 +924,7 @@ h1 {
 
 .login-logout {
   position: fixed;
-  // display: none;
+  display: none;
   top: 0;
   bottom: 0;
   right: 0;
@@ -938,7 +938,6 @@ h1 {
     margin-left: 50%;
     transform: translateX(-50%);
     width: 570px;
-    // height: 775px;
     background: #fff;
     border-radius: 23px;
     .login-logout__header {
