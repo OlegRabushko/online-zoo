@@ -702,7 +702,7 @@ h1 {
 }
 
 .pets__in__zoo__container .pets__in__zoo__block .pets__block .flex__imgs .img__rotation .panda__img::before {
-  background: url(./assets/images/Panda.png);
+  background: url(./assets/images/panda.png);
 }
 
 .pets__in__zoo__container .pets__in__zoo__block .pets__block .flex__imgs .img__rotation .eagle__img::before {
